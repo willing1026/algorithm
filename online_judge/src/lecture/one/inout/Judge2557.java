@@ -1,4 +1,4 @@
-package lecture.one;
+package lecture.one.inout;
 
 public class Judge2557 {
 	public static void main(String args[]) {
